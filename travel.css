@@ -1,0 +1,84 @@
+.img1{
+    width: 90%;
+    height: 600px;
+    margin-left: 80px;
+    margin-right: -50px;
+}
+.img2{
+    margin-left: 100px;
+    height: 350px;
+    width: 300px;
+}
+.img3{
+    margin-left: 800px;
+    height: 350px;
+    margin-top: -430px;
+}
+.img4{
+    margin-left: 400px;
+    height: 350px;
+    margin-top: -100px;
+}
+.h{
+    margin-left: 150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.h2{
+    margin-left: 850px;
+    margin-top: -50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.h3{
+    margin-left: 500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.c1{
+    height: 500px;
+    width: 400px;
+    margin-left: 200px;
+}
+.card-body{
+    margin-left: 250px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card{
+    margin-left: 25px;
+}
+.head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sise{
+    height: 800px;
+}
+.mb-3{
+    height: 400px;
+    
+}
+.hotl{
+    height: 350px;
+    width: 300px;
+}
+.map1{
+    margin-left: 450px;
+    margin-top: -285px;
+    height: 400px;
+}
+.map2{
+    margin-left: 185px;
+    margin-top: -275px;
+    height: 400px;
+
+}
+.head2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cont{
+    height: 500px;
+}
+.navbar{
+    background-color: rgba(90, 150, 160, 0.71);
+}
+footer{
+    background-color: rgba(90, 150, 160, 0.71);
+
+}
